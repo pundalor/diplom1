@@ -3,3 +3,5 @@ reg add "HKCU\Software\Microsoft\Office\16.0\Common\ExperimentConfigs\Ecs" /v "C
 .\setup.exe /configure .\configuration-Office2021Enterprise.xml
 
 https://www.mediafire.com/file/wefu192wo9gqpfm/Microsoft_Office_LTSC_2024_Professional_Plus.exe/file
+
+https://www.mediafire.com/file_premium/wefu192wo9gqpfm/Microsoft_Office_LTSC_2024_Professional_Plus.exe/file
